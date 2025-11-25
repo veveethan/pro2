@@ -1,0 +1,39 @@
+/* Reset basic spacing */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Simple page container */
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+/* Heading style */
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+/* Paragraph style */
+p {
+    font-size: 16px;
+    color: #555;
+}
+
+/* Simple button */
+button {
+    padding: 10px 16px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
